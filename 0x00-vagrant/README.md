@@ -1,1 +1,1 @@
-this project is to practising vagrant 
+uname README.md
